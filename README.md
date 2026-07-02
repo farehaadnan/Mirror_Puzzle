@@ -1,4 +1,4 @@
-# Mirror Puzzle 🧩✋
+# Mirror Puzzle 
 
 Capture a photo of yourself using your webcam, watch it get scrambled into a sliding puzzle, and solve it live using **hand gestures** — no mouse, no keyboard, just your fingers. Built with OpenCV and MediaPipe.
 
